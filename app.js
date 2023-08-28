@@ -8,7 +8,7 @@ const routes = require('./routes/routes');
 const app = express();
 routes(app);
 
-const porta = process.env.PORT || 3000;
+const porta = 3001;
 
 app.listen(porta, () => console.log(`- servidor ouvindo pela porta ${porta}\n- http://localhost:${porta}`));
 
