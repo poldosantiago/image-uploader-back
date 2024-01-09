@@ -1,4 +1,4 @@
-# image-uploader-back
+# image-uploader-back - em manutenção
 
 Aplicação da qual armazena qual recebe e guarda imagens através de rotas. Ela foi construída para participar do desafio proposto do site [devchallenges.io](https://devchallenges.io/). Vale ressaltar que esta é uma parte do projeto, o backend da aplicação.
 
