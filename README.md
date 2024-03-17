@@ -1,5 +1,7 @@
 # image-uploader-back - em manutenção
 
+:construction: Projeto em construção :construction:
+
 Aplicação da qual armazena qual recebe e guarda imagens através de rotas. Ela foi construída para participar do desafio proposto do site [devchallenges.io](https://devchallenges.io/). Vale ressaltar que esta é uma parte do projeto, o backend da aplicação.
 
 A página do desafio pode ser acessada [aqui](https://devchallenges.io/challenges/O2iGT9yBd6xZBrOcVirx#).
